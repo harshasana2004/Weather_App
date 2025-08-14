@@ -4,7 +4,8 @@ A sleek and responsive weather application built using HTML, CSS, and JavaScript
 
 This app allows users to search for any city and instantly view current weather details, including temperature, humidity, wind speed, and weather conditions with corresponding icons.
 
-
+<br>
+<br>
 
 📌 Features
 
@@ -22,8 +23,8 @@ This app allows users to search for any city and instantly view current weather 
 
 ⚠ Error Handling – Displays a friendly error message if the city is not found.
 
-
-
+<br>
+<br>
 
 📂 Project Structure
 
@@ -56,7 +57,8 @@ Weather-App/
 └── README.md          # Project documentation
 
 
-
+<br>
+<br>
 
 ⚙️ How It Works
 
@@ -68,8 +70,8 @@ If the city exists, weather details are displayed; otherwise, an error message a
 
 Weather icons change dynamically based on the current weather condition.
 
-
-
+<br>
+<br>
 
 🛠 Technologies Used
 
