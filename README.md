@@ -4,6 +4,8 @@ A sleek and responsive weather application built using HTML, CSS, and JavaScript
 
 This app allows users to search for any city and instantly view current weather details, including temperature, humidity, wind speed, and weather conditions with corresponding icons.
 
+
+
 📌 Features
 
 🔍 City Search – Enter any city name to get live weather data.
@@ -19,6 +21,8 @@ This app allows users to search for any city and instantly view current weather 
 📷 Dynamic Weather Icons – Changes based on weather condition (Cloudy, Rainy, Sunny, Misty, etc.).
 
 ⚠ Error Handling – Displays a friendly error message if the city is not found.
+
+
 
 
 📂 Project Structure
@@ -52,6 +56,8 @@ Weather-App/
 └── README.md          # Project documentation
 
 
+
+
 ⚙️ How It Works
 
 User enters a city name and clicks the search button.
@@ -61,6 +67,9 @@ The app sends a request to the OpenWeatherMap API.
 If the city exists, weather details are displayed; otherwise, an error message appears.
 
 Weather icons change dynamically based on the current weather condition.
+
+
+
 
 🛠 Technologies Used
 
