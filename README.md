@@ -22,19 +22,33 @@ This app allows users to search for any city and instantly view current weather 
 
 
 📂 Project Structure
+
 Weather-App/
+
 │
+
 ├── index.html         # Main HTML file
+
 ├── style.css          # Stylesheet
+
 ├── images/            # Weather icons and search button image
+
 │   ├── search.png
+
 │   ├── clouds.png
+
 │   ├── rain.png
+
 │   ├── clear.png
+
 │   ├── drizzle.png
+
 │   ├── mist.png
+
 │   ├── humidity.png
+
 │   └── wind.png
+
 └── README.md          # Project documentation
 
 
@@ -49,7 +63,11 @@ If the city exists, weather details are displayed; otherwise, an error message a
 Weather icons change dynamically based on the current weather condition.
 
 🛠 Technologies Used
+
 HTML5 – Structure
+
 CSS3 – Styling & Layout
+
 JavaScript (ES6) – Logic & API Calls
+
 OpenWeatherMap API – Weather Data
